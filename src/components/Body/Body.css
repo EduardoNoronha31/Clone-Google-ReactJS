@@ -1,0 +1,27 @@
+.bodyLogo > img{
+     
+     height: 89px;
+     width: 280px;
+     margin-top: 6%;
+     margin-left: 41%;
+
+}
+
+.bodyInput{
+     
+     margin-left: 31%;
+     margin-top: 43px;
+     border: 1px solid #D6DBDF ;
+     width: 570px;
+     border-radius: 25px;
+     padding: 8px 13px;
+     box-shadow: 0 0 1em #D6DBDF ;
+    
+}
+
+.bodyInput > input{
+     border: none;
+     outline: none;
+     width: 490px;
+}
+
